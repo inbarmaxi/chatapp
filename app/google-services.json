@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "373665699800",
+    "project_id": "chatappinbar",
+    "storage_bucket": "chatappinbar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373665699800:android:b86a67a91745d9f985c4ad",
+        "android_client_info": {
+          "package_name": "com.example.chatappinbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373665699800-ckouf9gqr91qerabknl9tamb12cfoa91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatappinbar",
+            "certificate_hash": "0c94ad828c6e49d07fb5b809cf1f78e2c38d15a9"
+          }
+        },
+        {
+          "client_id": "373665699800-hbj37nl1p4ncbhdsvdbcj4j4mb86kiav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrD718BvXVMi9-zhnFcO4QcG_qs7otbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373665699800-hbj37nl1p4ncbhdsvdbcj4j4mb86kiav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
